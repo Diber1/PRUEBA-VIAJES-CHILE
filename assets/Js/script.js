@@ -62,5 +62,5 @@ $('a[href^="#"]').click(function () {
     $(".card4txt").css("color", "#ffffff");
   });
 
-
+  
 });
