@@ -11,9 +11,6 @@ $('a[href^="#"]').click(function () {
     return false;
 });
 
-
-
-
   $(function () {
     $('[data-toggle="tooltip"]').tooltip();
   });
