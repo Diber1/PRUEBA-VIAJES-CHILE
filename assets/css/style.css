@@ -97,6 +97,7 @@ h4 {
 .card-group {
     border: 1px black;
     margin-bottom: 100px;
+    margin-top: 100px;
 }
      
 .card-title {
@@ -108,7 +109,7 @@ h4 {
     
 .card-text {
     font-size: 12pt;
-    font-weight: 400
+    font-weight: 400;
     text-align: left;
     color: #ffffff;
 }
